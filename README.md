@@ -19,3 +19,7 @@ I have found three different approaches that I have used in different situations
    convert into a meaningful error
 
 These example projects were created using Eclipse and with CDH 4.3.
+
+There is a supporting article on my website that provides more detail:
+
+http://www.lopakalogic.com/articles/hadoop-articles/hadoop-error-handling/
