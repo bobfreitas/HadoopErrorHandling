@@ -11,11 +11,11 @@ the default thing to get back.
 This is a common problem that people just getting started with Hadoop will run into.  
 I have found three different approaches that I have used in different situations.  
 
-1) when you have multiple non-fatal errors where you just want to track the number
+1. when you have multiple non-fatal errors where you just want to track the number
    of errors
-2) when you have a fatal condition with a required dependency in the setup and there
+2. when you have a fatal condition with a required dependency in the setup and there
    is no point in continuing
-3) when some exception thrown in the middle of the processing that you can catch and 
+3. when some exception thrown in the middle of the processing that you can catch and 
    convert into a meaningful error
 
 These example projects were created using Eclipse and with CDH 4.3.
